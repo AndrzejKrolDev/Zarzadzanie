@@ -1,0 +1,6 @@
+Metody,klasy,pakiety s¹ nazywane zgodnie z konwencj¹ opisan¹ na stronie Oracle która opisuje poprawne nazewnictwo dla jêzyka Java.
+Kod zosta³ sformatowany przy u¿yciu IDE Eclipse, formatowanie to równie¿ odpowiada zaleceniom oracle.
+Pakiet andkrul.fib -krótka unikalna nazwa pisana ma³ymi literami.
+Nazwy klas - plik w którym znajduje siê klasa main- nazwa koñczy siê ..Luncher.
+Klasy publiczne w osobnych plikach, nazwa z wielkiej litery.
+
